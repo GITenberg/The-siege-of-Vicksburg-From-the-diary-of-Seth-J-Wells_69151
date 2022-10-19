@@ -1,0 +1,33 @@
+_repo: The-siege-of-Vicksburg-From-the-diary-of-Seth-J-Wells_69151
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Bliss, May Wells
+    gutenberg_agent_id: '55131'
+    url: http://www.gutenberg.org/2009/agents/55131
+  - agent_name: Krolik, Sarah Ewell
+    gutenberg_agent_id: '55132'
+    url: http://www.gutenberg.org/2009/agents/55132
+creator:
+  author:
+    agent_name: Wells, Seth James
+    gutenberg_agent_id: '55130'
+    url: http://www.gutenberg.org/2009/agents/55130
+description: ''
+gutenberg_issued: '2022-10-13'
+identifiers:
+  gutenberg: '69151'
+language: en
+pgterms:marc905: 20220212171053wells
+pgterms:marc906: '1915'
+pgterms:marc907: US
+production_note: David E. Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: Wm. H. Rowe,1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The siege of Vicksburg: From the diary of Seth J. Wells'
+url: http://www.gutenberg.org/ebooks/69151
