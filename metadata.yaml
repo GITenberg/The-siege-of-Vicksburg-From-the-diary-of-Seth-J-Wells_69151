@@ -8,12 +8,17 @@ contributor:
   - agent_name: Krolik, Sarah Ewell
     gutenberg_agent_id: '55132'
     url: http://www.gutenberg.org/2009/agents/55132
+covers:
+- cover_type: archival
+  image_path: 69151-h/images/cover.jpg
 creator:
   author:
     agent_name: Wells, Seth James
     gutenberg_agent_id: '55130'
     url: http://www.gutenberg.org/2009/agents/55130
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69151#The-siege-of-Vicksburg-From-the-diary-of-Seth-J-Wells
 gutenberg_issued: '2022-10-13'
 identifiers:
   gutenberg: '69151'
